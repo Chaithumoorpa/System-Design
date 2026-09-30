@@ -3,7 +3,7 @@
 <!-- nav:start -->
 🏷️ **Priority:** Medium · **Difficulty:** Intermediate
 
-⬅️ Previous: [Design Job Scheduler](../Job-Scheduler/README.md) · 🏠 [Asynchronous Systems](../README.md) · ➡️ Next: *(end)*
+⬅️ Previous: [Design CI/CD Pipeline](../CI-CD-Pipeline/README.md) · 🏠 [Asynchronous Systems](../README.md) · ➡️ Next: [Design LeetCode](../../18-Specialized-Systems/LeetCode/README.md)
 
 > 📚 **Credit:** Chapter selection, ordering and question choice follow the [AlgoMaster.io System Design Interviews course](https://algomaster.io/learn/system-design-interviews/course-roadmap). This write-up was created with Claude for personal interview prep. The premium lesson text was **not** accessed or reproduced. See [CREDITS](../../CREDITS.md).
 <!-- nav:end -->

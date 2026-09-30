@@ -12,7 +12,7 @@ companies**, organised as a course. Every problem follows the same flow:
 > Not affiliated with AlgoMaster.io: please support the original at [algomaster.io](https://algomaster.io).
 > See [CREDITS.md](CREDITS.md).
 
-**Progress: 87/105 chapters written.** ✅ written · 🚧 planned
+**Progress: 105/105 chapters written.** ✅ written · 🚧 planned
 
 ## How to study
 
@@ -167,10 +167,10 @@ Tools: `python3 tools/build.py` regenerates navigation, indexes and this table.
 
 | Chapter | Priority | Difficulty | Status |
 |---|---|---|---|
-| [Design Amazon](13-E-commerce-and-Marketplace/Amazon/README.md) | Medium | Intermediate | 🚧 |
-| [Design Shopify](13-E-commerce-and-Marketplace/Shopify/README.md) | Low | Intermediate | 🚧 |
+| [Design Amazon](13-E-commerce-and-Marketplace/Amazon/README.md) | Medium | Intermediate | ✅ |
+| [Design Shopify](13-E-commerce-and-Marketplace/Shopify/README.md) | Low | Intermediate | ✅ |
 | [Design Flash Sale](13-E-commerce-and-Marketplace/Flash-Sale/README.md) | Medium | Advanced | ✅ |
-| [Design Online Auction System](13-E-commerce-and-Marketplace/Online-Auction-System/README.md) | Low | Advanced | 🚧 |
+| [Design Online Auction System](13-E-commerce-and-Marketplace/Online-Auction-System/README.md) | Low | Advanced | ✅ |
 | [Design Movie Booking System](13-E-commerce-and-Marketplace/Movie-Booking/README.md) | Medium | Advanced | ✅ |
 
 ## [Payment & Financial Systems](14-Payment-and-Financial-Systems/README.md)
@@ -178,30 +178,30 @@ Tools: `python3 tools/build.py` regenerates navigation, indexes and this table.
 | Chapter | Priority | Difficulty | Status |
 |---|---|---|---|
 | [Design Payment System](14-Payment-and-Financial-Systems/Payment-System/README.md) | High | Intermediate | ✅ |
-| [Design Digital Wallet](14-Payment-and-Financial-Systems/Digital-Wallet/README.md) | Medium | Advanced | 🚧 |
-| [Design Stock Exchange](14-Payment-and-Financial-Systems/Stock-Exchange/README.md) | Low | Advanced | 🚧 |
+| [Design Digital Wallet](14-Payment-and-Financial-Systems/Digital-Wallet/README.md) | Medium | Advanced | ✅ |
+| [Design Stock Exchange](14-Payment-and-Financial-Systems/Stock-Exchange/README.md) | Low | Advanced | ✅ |
 
 ## [Distributed Infrastructure](15-Distributed-Infrastructure/README.md)
 
 | Chapter | Priority | Difficulty | Status |
 |---|---|---|---|
-| [Design Load Balancer](15-Distributed-Infrastructure/Load-Balancer/README.md) | High | Intermediate | 🚧 |
-| [Design API Gateway](15-Distributed-Infrastructure/API-Gateway/README.md) | High | Intermediate | 🚧 |
+| [Design Load Balancer](15-Distributed-Infrastructure/Load-Balancer/README.md) | High | Intermediate | ✅ |
+| [Design API Gateway](15-Distributed-Infrastructure/API-Gateway/README.md) | High | Intermediate | ✅ |
 | [Design Rate Limiter](15-Distributed-Infrastructure/Rate-Limiter/README.md) | High | Intermediate | ✅ |
 | [Design Key-Value Store](15-Distributed-Infrastructure/Key-Value-Store/README.md) | High | Advanced | ✅ |
 | [Design Distributed Cache](15-Distributed-Infrastructure/Distributed-Cache/README.md) | High | Advanced | ✅ |
-| [Design CDN](15-Distributed-Infrastructure/CDN/README.md) | Medium | Advanced | 🚧 |
-| [Design Object Storage like S3](15-Distributed-Infrastructure/Object-Storage-S3/README.md) | Medium | Advanced | 🚧 |
-| [Design Messaging Queue](15-Distributed-Infrastructure/Messaging-Queue/README.md) | Medium | Advanced | 🚧 |
-| [Design Time Series Database](15-Distributed-Infrastructure/Time-Series-Database/README.md) | Low | Advanced | 🚧 |
-| [Design Locking Service](15-Distributed-Infrastructure/Locking-Service/README.md) | Low | Advanced | 🚧 |
+| [Design CDN](15-Distributed-Infrastructure/CDN/README.md) | Medium | Advanced | ✅ |
+| [Design Object Storage like S3](15-Distributed-Infrastructure/Object-Storage-S3/README.md) | Medium | Advanced | ✅ |
+| [Design Messaging Queue](15-Distributed-Infrastructure/Messaging-Queue/README.md) | Medium | Advanced | ✅ |
+| [Design Time Series Database](15-Distributed-Infrastructure/Time-Series-Database/README.md) | Low | Advanced | ✅ |
+| [Design Locking Service](15-Distributed-Infrastructure/Locking-Service/README.md) | Low | Advanced | ✅ |
 
 ## [Counting & Ranking Systems](16-Counting-and-Ranking-Systems/README.md)
 
 | Chapter | Priority | Difficulty | Status |
 |---|---|---|---|
-| [Design Likes Counting System](16-Counting-and-Ranking-Systems/Likes-Counting-System/README.md) | Medium | Intermediate | 🚧 |
-| [Design Real Time Leaderboard](16-Counting-and-Ranking-Systems/Real-Time-Leaderboard/README.md) | Medium | Intermediate | 🚧 |
+| [Design Likes Counting System](16-Counting-and-Ranking-Systems/Likes-Counting-System/README.md) | Medium | Intermediate | ✅ |
+| [Design Real Time Leaderboard](16-Counting-and-Ranking-Systems/Real-Time-Leaderboard/README.md) | Medium | Intermediate | ✅ |
 | [Design Top K](16-Counting-and-Ranking-Systems/Top-K/README.md) | Medium | Advanced | ✅ |
 
 ## [Asynchronous Systems](17-Asynchronous-Systems/README.md)
@@ -210,16 +210,16 @@ Tools: `python3 tools/build.py` regenerates navigation, indexes and this table.
 |---|---|---|---|
 | [Design Notification Service](17-Asynchronous-Systems/Notification-Service/README.md) | High | Intermediate | ✅ |
 | [Design Job Scheduler](17-Asynchronous-Systems/Job-Scheduler/README.md) | Medium | Intermediate | ✅ |
-| [Design CI/CD Pipeline](17-Asynchronous-Systems/CI-CD-Pipeline/README.md) | Low | Intermediate | 🚧 |
+| [Design CI/CD Pipeline](17-Asynchronous-Systems/CI-CD-Pipeline/README.md) | Low | Intermediate | ✅ |
 | [Design Monitoring and Alerting System](17-Asynchronous-Systems/Monitoring-and-Alerting/README.md) | Medium | Intermediate | ✅ |
 
 ## [Specialized Systems](18-Specialized-Systems/README.md)
 
 | Chapter | Priority | Difficulty | Status |
 |---|---|---|---|
-| [Design LeetCode](18-Specialized-Systems/LeetCode/README.md) | Medium | Intermediate | 🚧 |
-| [Design Calendar System](18-Specialized-Systems/Calendar-System/README.md) | Low | Advanced | 🚧 |
-| [Design Online Chess](18-Specialized-Systems/Online-Chess/README.md) | Low | Advanced | 🚧 |
+| [Design LeetCode](18-Specialized-Systems/LeetCode/README.md) | Medium | Intermediate | ✅ |
+| [Design Calendar System](18-Specialized-Systems/Calendar-System/README.md) | Low | Advanced | ✅ |
+| [Design Online Chess](18-Specialized-Systems/Online-Chess/README.md) | Low | Advanced | ✅ |
 
 ## 🔗 Companion repository
 

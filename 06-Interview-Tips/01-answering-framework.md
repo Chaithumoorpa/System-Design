@@ -35,7 +35,7 @@ Write down **in scope / out of scope** explicitly. It protects your time.
 
 ## Phase 2: Estimate
 
-State assumptions out loud, round aggressively, and keep units visible. See [`01-foundations/01-estimation.md`](02-estimation-cheatsheet.md). The goal is to decide **what kind of system** this is (single node vs sharded, cache needed or not), not to get exact numbers.
+State assumptions out loud, round aggressively, and keep units visible. See [Estimation Cheatsheet](02-estimation-cheatsheet.md). The goal is to decide **what kind of system** this is (single node vs sharded, cache needed or not), not to get exact numbers.
 
 ## Phase 3: API and data model
 

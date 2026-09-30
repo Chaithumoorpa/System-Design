@@ -1,4 +1,4 @@
-# Coordination Services and Other Building Blocks
+# ZooKeeper (and Coordination Services)
 
 <!-- nav:start -->
 🏷️ **Priority:** Medium · **Difficulty:** Advanced

@@ -36,7 +36,7 @@ Use sync for queries that need an immediate answer; async for workflows and side
 ## Data across services
 
 - No cross-service joins: use API composition, or replicate needed data via events into a local read model (CQRS).
-- Distributed transactions: sagas plus outbox. See [patterns](../04-patterns).
+- Distributed transactions: sagas plus outbox. See [patterns](../05-Interview-Patterns/README.md).
 - Shared IDs and events carry all data consumers need to reduce chatty calls.
 
 ## Anti-patterns

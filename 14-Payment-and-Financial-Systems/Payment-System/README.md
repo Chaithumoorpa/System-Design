@@ -3,7 +3,7 @@
 <!-- nav:start -->
 🏷️ **Priority:** High · **Difficulty:** Intermediate
 
-⬅️ Previous: [Design Movie Booking System](../../13-E-commerce-and-Marketplace/Movie-Booking/README.md) · 🏠 [Payment & Financial Systems](../README.md) · ➡️ Next: [Design Rate Limiter](../../15-Distributed-Infrastructure/Rate-Limiter/README.md)
+⬅️ Previous: [Design Movie Booking System](../../13-E-commerce-and-Marketplace/Movie-Booking/README.md) · 🏠 [Payment & Financial Systems](../README.md) · ➡️ Next: [Design Digital Wallet](../Digital-Wallet/README.md)
 
 > 📚 **Credit:** Chapter selection, ordering and question choice follow the [AlgoMaster.io System Design Interviews course](https://algomaster.io/learn/system-design-interviews/course-roadmap). This write-up was created with Claude for personal interview prep. The premium lesson text was **not** accessed or reproduced. See [CREDITS](../../CREDITS.md).
 <!-- nav:end -->
