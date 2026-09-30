@@ -29,7 +29,7 @@ Good keys have **high cardinality**, **even access distribution**, and **match t
 - **Cross-shard transactions**: need 2PC or sagas; try to design so transactions stay within one shard.
 - **Hot shards / hot keys**: add salt (`key#0..k`), split hot keys, cache in front, or isolate heavy tenants.
 - **Resharding**: use many small logical partitions (e.g. 1024) mapped to fewer physical nodes so rebalancing moves whole partitions. Avoid `hash % N` with changing N.
-- **Unique IDs and auto-increment**: need globally unique ID generation (see [ID generator](../05-case-studies/03-unique-id-generator.md)).
+- **Unique IDs and auto-increment**: need globally unique ID generation (see [ID generator](../05-case-studies/Basics/UniqueIdGenerator/README.md)).
 - **Operational load**: backups, schema changes, monitoring times N.
 
 ## Partitioning vs replication
@@ -46,3 +46,11 @@ Split by feature or table group across databases (users DB, orders DB). Simple f
 2. You shard orders by user_id but the merchant dashboard needs orders by merchant. Options?
 3. How do you handle a celebrity account that overloads its shard?
 4. When would you avoid sharding entirely?
+
+---
+
+## 🔗 Used in these case studies
+
+- [URL Shortener](../05-case-studies/Basics/URLShortener/README.md)
+- [Chat System](../05-case-studies/Real-Time-Communication/ChatSystem/README.md)
+- [File Storage and Sync](../05-case-studies/Media-and-Storage/FileStorageSync/README.md)

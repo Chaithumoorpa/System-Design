@@ -11,7 +11,7 @@ A content delivery network is a globally distributed set of edge servers that ca
 - Invalidation: TTLs, purge APIs, or **versioned URLs** (best: `app.3fa9c.js`, cache forever).
 - Dynamic acceleration: edge terminates TLS and uses optimised backbone paths; edge compute can personalise.
 - Multi-tier caches (edge, regional shield, origin) reduce origin fetches.
-- Video: segment media (HLS/DASH, a few seconds each) so segments are cacheable. See [video streaming](../05-case-studies/08-video-streaming.md).
+- Video: segment media (HLS/DASH, a few seconds each) so segments are cacheable. See [video streaming](../05-case-studies/Media-and-Storage/VideoStreaming/README.md).
 
 ## Storage types
 
@@ -49,3 +49,10 @@ Tier by age and access frequency; compress; dedupe by content hash; set retentio
 2. Replication vs erasure coding: when would you choose each?
 3. How do you invalidate CDN content quickly and safely?
 4. Why not store images in the relational database?
+
+---
+
+## 🔗 Used in these case studies
+
+- [Video Streaming](../05-case-studies/Media-and-Storage/VideoStreaming/README.md)
+- [File Storage and Sync](../05-case-studies/Media-and-Storage/FileStorageSync/README.md)

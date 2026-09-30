@@ -40,3 +40,11 @@ Store the key and the business effect **in the same transaction** when possible,
 1. Design idempotent payment creation across an API server and a payment provider.
 2. How do you make an "increment counter" consumer idempotent?
 3. Two identical requests arrive at the same time on different servers. What guarantees only one executes?
+
+---
+
+## 🔗 Used in these case studies
+
+- [Payment System](../05-case-studies/Commerce-and-Payments/PaymentSystem/README.md)
+- [Notification Service](../05-case-studies/Real-Time-Communication/NotificationService/README.md)
+- [Ticket Booking](../05-case-studies/Commerce-and-Payments/TicketBooking/README.md)

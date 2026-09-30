@@ -61,3 +61,13 @@ Consumer lag, throughput, error and retry rates, DLQ depth, oldest message age, 
 2. How do you guarantee an email is not sent twice, given at-least-once delivery?
 3. A consumer group has 12 consumers but the topic has 8 partitions. What happens?
 4. How do you handle a poison message?
+
+---
+
+## 🔗 Used in these case studies
+
+- [Notification Service](../05-case-studies/Real-Time-Communication/NotificationService/README.md)
+- [Chat System](../05-case-studies/Real-Time-Communication/ChatSystem/README.md)
+- [Job Scheduler](../05-case-studies/Distributed-Infrastructure/JobScheduler/README.md)
+- [Metrics and Logging Pipeline](../05-case-studies/Distributed-Infrastructure/MetricsLoggingPipeline/README.md)
+- [Top-K / Trending](../05-case-studies/Social-and-Content/TopKTrending/README.md)

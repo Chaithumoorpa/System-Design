@@ -68,3 +68,10 @@ Scaling WebSockets: connections are stateful, so an LB routes by connection (lea
 1. Why does HTTP/2 not fully fix head-of-line blocking?
 2. You need to push updates to 1M browsers. WebSocket or SSE, and how many gateway servers?
 3. Why terminate TLS at the load balancer, and what is the security downside?
+
+---
+
+## 🔗 Used in these case studies
+
+- [Chat System](../05-case-studies/Real-Time-Communication/ChatSystem/README.md)
+- [Video Streaming](../05-case-studies/Media-and-Storage/VideoStreaming/README.md)

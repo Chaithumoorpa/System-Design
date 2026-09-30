@@ -46,3 +46,12 @@ Containers package apps; Kubernetes schedules them, restarts failures, rolls out
 1. How does a lock service prevent two leaders from acting at once after a network pause?
 2. Which probabilistic structure would you use to dedupe billions of URLs in a crawler?
 3. Batch vs stream for computing daily and near-real-time metrics; how do you unify them?
+
+---
+
+## 🔗 Used in these case studies
+
+- [Unique ID Generator](../05-case-studies/Basics/UniqueIdGenerator/README.md)
+- [Job Scheduler](../05-case-studies/Distributed-Infrastructure/JobScheduler/README.md)
+- [Web Crawler](../05-case-studies/Search-and-Discovery/WebCrawler/README.md)
+- [Top-K / Trending](../05-case-studies/Social-and-Content/TopKTrending/README.md)

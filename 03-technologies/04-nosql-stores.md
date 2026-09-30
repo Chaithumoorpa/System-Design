@@ -49,3 +49,11 @@
 1. Model "messages in a conversation, newest first" in Cassandra. What is the partition key and why do you bucket?
 2. Why can DynamoDB throttle even when total capacity is available?
 3. Compare quorum settings for reads and writes and their consequences.
+
+---
+
+## 🔗 Used in these case studies
+
+- [Chat System](../05-case-studies/Real-Time-Communication/ChatSystem/README.md)
+- [Key-Value Store](../05-case-studies/Distributed-Infrastructure/KeyValueStore/README.md)
+- [URL Shortener](../05-case-studies/Basics/URLShortener/README.md)

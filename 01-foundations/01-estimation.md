@@ -84,3 +84,11 @@ Serial dependencies multiply (0.999 x 0.999 = 0.998); redundant parallel compone
 2. Video platform: 50M DAU, each watches 30 minutes at 2 Mbps. Compute peak egress.
 3. Chat: 500M DAU, 40 messages/day, 100 bytes each. Compute QPS and 5-year storage.
 4. Log pipeline: 10,000 servers, each emitting 100 lines/s of 200 bytes. Compute ingest MB/s and daily storage.
+
+---
+
+## 🔗 Used in these case studies
+
+- [Video Streaming](../05-case-studies/Media-and-Storage/VideoStreaming/README.md)
+- [Chat System](../05-case-studies/Real-Time-Communication/ChatSystem/README.md)
+- [URL Shortener](../05-case-studies/Basics/URLShortener/README.md)

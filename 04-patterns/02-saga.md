@@ -54,3 +54,11 @@ Coordinator asks all participants to **prepare** (lock and promise), then **comm
 1. Walk through a saga for booking a flight + hotel + car, including failure of the car step.
 2. Why does the outbox pattern beat "write DB, then publish"?
 3. Choreography or orchestration for a 7-step fulfilment flow? Why?
+
+---
+
+## 🔗 Used in these case studies
+
+- [Payment System](../05-case-studies/Commerce-and-Payments/PaymentSystem/README.md)
+- [Ticket Booking](../05-case-studies/Commerce-and-Payments/TicketBooking/README.md)
+- [Ride Hailing](../05-case-studies/Location-Based-Services/RideHailing/README.md)

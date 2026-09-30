@@ -51,3 +51,11 @@ Ask in order: CPU, memory, disk I/O, network, locks/contention, downstream depen
 1. Your service handles 1k QPS on one node and needs 100k. Walk through the steps.
 2. What stops a stateless tier from scaling infinitely?
 3. Why can adding shards make some queries slower?
+
+---
+
+## 🔗 Used in these case studies
+
+- [News Feed](../05-case-studies/Social-and-Content/NewsFeed/README.md)
+- [Chat System](../05-case-studies/Real-Time-Communication/ChatSystem/README.md)
+- [URL Shortener](../05-case-studies/Basics/URLShortener/README.md)

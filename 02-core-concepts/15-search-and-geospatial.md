@@ -18,7 +18,7 @@ Features to know: fuzzy matching (edit distance), prefix/autocomplete (edge n-gr
 ## Typeahead structures
 
 - **Trie** with top-k completions cached at each node.
-- Precompute popular queries offline; serve from memory/cache; update periodically. See [typeahead](../05-case-studies/12-typeahead.md).
+- Precompute popular queries offline; serve from memory/cache; update periodically. See [typeahead](../05-case-studies/Search-and-Discovery/Typeahead/README.md).
 
 ## Geospatial indexing
 
@@ -40,3 +40,11 @@ Query flow: compute the cells covering the search circle, fetch points from thos
 2. Why does geohash need to check neighbouring cells?
 3. Why is deep pagination slow in a sharded search index?
 4. Design storage for driver locations updating every 4 seconds for 1M drivers.
+
+---
+
+## 🔗 Used in these case studies
+
+- [Nearby Places](../05-case-studies/Location-Based-Services/NearbyPlaces/README.md)
+- [Ride Hailing](../05-case-studies/Location-Based-Services/RideHailing/README.md)
+- [Typeahead](../05-case-studies/Search-and-Discovery/Typeahead/README.md)

@@ -46,3 +46,11 @@ Reservations (ticket holds), sessions, OTP codes: use TTLs in the store plus a s
 1. How do you deliver a chat message to a user connected to a different server?
 2. How would clients resync after being offline for a day?
 3. Design a delayed job system that fires 10M timers per day accurately.
+
+---
+
+## 🔗 Used in these case studies
+
+- [Chat System](../05-case-studies/Real-Time-Communication/ChatSystem/README.md)
+- [File Storage and Sync](../05-case-studies/Media-and-Storage/FileStorageSync/README.md)
+- [Job Scheduler](../05-case-studies/Distributed-Infrastructure/JobScheduler/README.md)

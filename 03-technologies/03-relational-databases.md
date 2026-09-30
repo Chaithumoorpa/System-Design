@@ -47,3 +47,11 @@ Massive write throughput with simple key access, need for automatic multi-region
 2. How does `SKIP LOCKED` enable a job queue in SQL?
 3. Explain MVCC and why long transactions hurt.
 4. Design a safe zero-downtime column rename.
+
+---
+
+## 🔗 Used in these case studies
+
+- [Ticket Booking](../05-case-studies/Commerce-and-Payments/TicketBooking/README.md)
+- [Payment System](../05-case-studies/Commerce-and-Payments/PaymentSystem/README.md)
+- [Job Scheduler](../05-case-studies/Distributed-Infrastructure/JobScheduler/README.md)

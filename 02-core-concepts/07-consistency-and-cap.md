@@ -57,3 +57,11 @@ Consensus lets nodes agree on a value/log despite failures, using majority quoru
 2. What does R + W > N guarantee, and what does it not guarantee?
 3. Why is 2PC rarely used across microservices?
 4. Where would you accept eventual consistency in an e-commerce system, and where not?
+
+---
+
+## 🔗 Used in these case studies
+
+- [Key-Value Store](../05-case-studies/Distributed-Infrastructure/KeyValueStore/README.md)
+- [Unique ID Generator](../05-case-studies/Basics/UniqueIdGenerator/README.md)
+- [Payment System](../05-case-studies/Commerce-and-Payments/PaymentSystem/README.md)

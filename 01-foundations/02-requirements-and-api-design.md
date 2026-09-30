@@ -74,3 +74,11 @@ Interview point: 301 (permanent, browsers cache, fewer hits, no click analytics)
 1. Design the API for a ride-hailing app's "request ride" and "driver location update". Which is REST and which is not?
 2. Why is offset pagination a problem on a feed with millions of rows and constant inserts?
 3. A client retries `POST /payments` after a timeout. How does your API prevent double charges?
+
+---
+
+## 🔗 Used in these case studies
+
+- [URL Shortener](../05-case-studies/Basics/URLShortener/README.md)
+- [Ride Hailing](../05-case-studies/Location-Based-Services/RideHailing/README.md)
+- [Payment System](../05-case-studies/Commerce-and-Payments/PaymentSystem/README.md)

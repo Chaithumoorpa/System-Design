@@ -74,3 +74,11 @@ Changes are appended to a log before being applied, so after a crash the DB repl
 2. Explain how you would prevent overselling the last ticket under concurrency, with two different mechanisms.
 3. B-tree vs LSM-tree: which for a write-heavy metrics store, and why?
 4. When is denormalisation the right call, and how do you keep it correct?
+
+---
+
+## 🔗 Used in these case studies
+
+- [Ticket Booking](../05-case-studies/Commerce-and-Payments/TicketBooking/README.md)
+- [Flash Sale / Inventory](../05-case-studies/Commerce-and-Payments/FlashSaleInventory/README.md)
+- [Payment System](../05-case-studies/Commerce-and-Payments/PaymentSystem/README.md)

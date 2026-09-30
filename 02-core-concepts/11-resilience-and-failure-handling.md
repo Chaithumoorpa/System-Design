@@ -55,3 +55,12 @@ Canary releases, blue-green, feature flags, automatic rollback on SLO burn, grad
 2. Why is a slow dependency more dangerous than a dead one?
 3. Describe circuit breaker states and how you would tune them.
 4. Define RPO and RTO for a payment system and pick a DR strategy.
+
+---
+
+## 🔗 Used in these case studies
+
+- [Rate Limiter](../05-case-studies/Basics/RateLimiter/README.md)
+- [Notification Service](../05-case-studies/Real-Time-Communication/NotificationService/README.md)
+- [Flash Sale / Inventory](../05-case-studies/Commerce-and-Payments/FlashSaleInventory/README.md)
+- [Metrics and Logging Pipeline](../05-case-studies/Distributed-Infrastructure/MetricsLoggingPipeline/README.md)

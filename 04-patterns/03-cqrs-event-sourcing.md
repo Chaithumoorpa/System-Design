@@ -31,3 +31,10 @@ Precomputed query results maintained from events or CDC (per-user timeline, coun
 1. When does CQRS earn its complexity? Give a counterexample.
 2. How do you show a user their own new post immediately in a CQRS system?
 3. What are the drawbacks of event sourcing, and how do snapshots help?
+
+---
+
+## 🔗 Used in these case studies
+
+- [News Feed](../05-case-studies/Social-and-Content/NewsFeed/README.md)
+- [Payment System](../05-case-studies/Commerce-and-Payments/PaymentSystem/README.md)

@@ -66,3 +66,12 @@ Highly personalised data with low reuse, rapidly changing values needing strict 
 2. A celebrity profile expires and your DB melts. Explain and fix.
 3. How do you keep a cache consistent with a database without distributed transactions?
 4. How would you size a Redis cluster for 500 GB of hot data at 200k ops/s?
+
+---
+
+## 🔗 Used in these case studies
+
+- [URL Shortener](../05-case-studies/Basics/URLShortener/README.md)
+- [News Feed](../05-case-studies/Social-and-Content/NewsFeed/README.md)
+- [Distributed Cache](../05-case-studies/Distributed-Infrastructure/DistributedCache/README.md)
+- [Flash Sale / Inventory](../05-case-studies/Commerce-and-Payments/FlashSaleInventory/README.md)

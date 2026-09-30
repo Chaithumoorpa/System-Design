@@ -60,3 +60,11 @@ When not: simple task queue with per-message ack/retry semantics, tiny scale, re
 2. Explain how to get effectively-once processing.
 3. Topic has 6 partitions and lag is growing with 6 consumers. What now?
 4. Kafka vs SQS vs RabbitMQ.
+
+---
+
+## 🔗 Used in these case studies
+
+- [Metrics and Logging Pipeline](../05-case-studies/Distributed-Infrastructure/MetricsLoggingPipeline/README.md)
+- [Top-K / Trending](../05-case-studies/Social-and-Content/TopKTrending/README.md)
+- [Notification Service](../05-case-studies/Real-Time-Communication/NotificationService/README.md)

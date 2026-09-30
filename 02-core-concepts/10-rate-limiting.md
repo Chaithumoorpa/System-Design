@@ -61,3 +61,11 @@ Load shedding, concurrency limits (bulkheads), circuit breakers, quotas per bill
 2. Design distributed rate limiting for 10 gateways with a shared 100 req/s per user limit.
 3. What should happen when Redis is down?
 4. Token bucket vs leaky bucket for API protection vs traffic shaping?
+
+---
+
+## 🔗 Used in these case studies
+
+- [Rate Limiter](../05-case-studies/Basics/RateLimiter/README.md)
+- [Flash Sale / Inventory](../05-case-studies/Commerce-and-Payments/FlashSaleInventory/README.md)
+- [Ticket Booking](../05-case-studies/Commerce-and-Payments/TicketBooking/README.md)

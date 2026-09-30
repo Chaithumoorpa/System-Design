@@ -48,3 +48,11 @@ Stream the database's log (Debezium on binlog/WAL) to downstream systems: caches
 2. Explain split brain and how to prevent it.
 3. Choose N, R, W for a shopping cart (available) versus a bank ledger (consistent).
 4. Why is async replication risky for failover, and when is it still acceptable?
+
+---
+
+## 🔗 Used in these case studies
+
+- [Key-Value Store](../05-case-studies/Distributed-Infrastructure/KeyValueStore/README.md)
+- [Distributed Cache](../05-case-studies/Distributed-Infrastructure/DistributedCache/README.md)
+- [Payment System](../05-case-studies/Commerce-and-Payments/PaymentSystem/README.md)

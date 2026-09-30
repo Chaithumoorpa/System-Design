@@ -56,3 +56,12 @@ Does not solve hot keys. Data movement still needs orchestration (dual reads or 
 1. Why virtual nodes? What happens with too few or too many?
 2. Node C dies in a 4-node ring with replication factor 3. Which data is affected and how does the cluster recover?
 3. Compare consistent hashing with fixed hash slots.
+
+---
+
+## 🔗 Used in these case studies
+
+- [Distributed Cache](../05-case-studies/Distributed-Infrastructure/DistributedCache/README.md)
+- [Key-Value Store](../05-case-studies/Distributed-Infrastructure/KeyValueStore/README.md)
+- [Web Crawler](../05-case-studies/Search-and-Discovery/WebCrawler/README.md)
+- [URL Shortener](../05-case-studies/Basics/URLShortener/README.md)

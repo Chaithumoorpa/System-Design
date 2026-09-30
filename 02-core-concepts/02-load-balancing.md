@@ -52,3 +52,10 @@ Route a user to the same server (cookie or IP hash). Convenient for in-memory se
 2. How do you load balance WebSocket connections and later rebalance them?
 3. The LB is healthy but one backend is slow, not down. What do you do?
 4. How would you do a canary release using the LB?
+
+---
+
+## 🔗 Used in these case studies
+
+- [Chat System](../05-case-studies/Real-Time-Communication/ChatSystem/README.md)
+- [URL Shortener](../05-case-studies/Basics/URLShortener/README.md)

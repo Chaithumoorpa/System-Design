@@ -51,3 +51,12 @@ In-memory data structure store; single-threaded command execution, extremely fas
 2. Design a leaderboard for 50M players with rank lookup.
 3. When is a Redis lock unsafe?
 4. RDB vs AOF: choose for a session store and for a cache.
+
+---
+
+## 🔗 Used in these case studies
+
+- [Rate Limiter](../05-case-studies/Basics/RateLimiter/README.md)
+- [Flash Sale / Inventory](../05-case-studies/Commerce-and-Payments/FlashSaleInventory/README.md)
+- [Distributed Cache](../05-case-studies/Distributed-Infrastructure/DistributedCache/README.md)
+- [News Feed](../05-case-studies/Social-and-Content/NewsFeed/README.md)

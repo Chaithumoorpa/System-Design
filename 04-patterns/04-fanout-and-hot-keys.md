@@ -52,3 +52,11 @@ Nodes periodically exchange state with random peers; membership and failure info
 1. A user with 50M followers posts. What happens in your design?
 2. Design a like counter for a viral post receiving 100k likes/s.
 3. When do you choose precomputation over on-demand computation?
+
+---
+
+## 🔗 Used in these case studies
+
+- [News Feed](../05-case-studies/Social-and-Content/NewsFeed/README.md)
+- [Flash Sale / Inventory](../05-case-studies/Commerce-and-Payments/FlashSaleInventory/README.md)
+- [Top-K / Trending](../05-case-studies/Social-and-Content/TopKTrending/README.md)

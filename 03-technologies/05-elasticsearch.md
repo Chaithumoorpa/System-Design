@@ -43,3 +43,10 @@ Primary DB --CDC/events--> Queue --> Indexer --> Elasticsearch <-- Search API
 1. How would you support product search with typo tolerance, filters, and popularity ranking?
 2. How do you reindex a live index without downtime?
 3. Why is the data not immediately searchable after write, and is that a problem?
+
+---
+
+## 🔗 Used in these case studies
+
+- [Nearby Places](../05-case-studies/Location-Based-Services/NearbyPlaces/README.md)
+- [Metrics and Logging Pipeline](../05-case-studies/Distributed-Infrastructure/MetricsLoggingPipeline/README.md)

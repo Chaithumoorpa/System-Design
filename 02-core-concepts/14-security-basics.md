@@ -53,3 +53,10 @@ Data minimisation, retention limits, right-to-delete (GDPR) which affects backup
 1. How would you revoke a JWT before expiry?
 2. How do you store user passwords?
 3. How do you securely let a client upload directly to object storage?
+
+---
+
+## 🔗 Used in these case studies
+
+- [Payment System](../05-case-studies/Commerce-and-Payments/PaymentSystem/README.md)
+- [File Storage and Sync](../05-case-studies/Media-and-Storage/FileStorageSync/README.md)

@@ -49,3 +49,10 @@ Distributed monolith (services must deploy together), shared database, chatty fi
 2. Order service needs user info from user service on every request. Options to avoid coupling and latency?
 3. How does a saga differ from a distributed transaction?
 4. What does a service mesh give you that a library does not?
+
+---
+
+## 🔗 Used in these case studies
+
+- [Payment System](../05-case-studies/Commerce-and-Payments/PaymentSystem/README.md)
+- [Ride Hailing](../05-case-studies/Location-Based-Services/RideHailing/README.md)
