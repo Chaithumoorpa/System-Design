@@ -3,7 +3,7 @@
 <!-- nav:start -->
 🏷️ **Priority:** High · **Difficulty:** Beginner
 
-⬅️ Previous: [Design Nearby Places / Yelp (bonus)](../../11-Location-Based-Services/Nearby-Places-Bonus/README.md) · 🏠 [Search & Aggregation Systems](../README.md) · ➡️ Next: [Design Web Crawler](../Web-Crawler/README.md)
+⬅️ Previous: [Design Nearby Places / Yelp (bonus)](../../11-Location-Based-Services/Nearby-Places-Bonus/README.md) · 🏠 [Search & Aggregation Systems](../README.md) · ➡️ Next: [Design News Aggregator](../News-Aggregator/README.md)
 
 > 📚 **Credit:** Chapter selection, ordering and question choice follow the [AlgoMaster.io System Design Interviews course](https://algomaster.io/learn/system-design-interviews/course-roadmap). This write-up was created with Claude for personal interview prep. The premium lesson text was **not** accessed or reproduced. See [CREDITS](../../CREDITS.md).
 <!-- nav:end -->

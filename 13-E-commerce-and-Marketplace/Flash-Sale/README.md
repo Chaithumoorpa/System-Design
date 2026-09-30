@@ -3,7 +3,7 @@
 <!-- nav:start -->
 🏷️ **Priority:** Medium · **Difficulty:** Advanced
 
-⬅️ Previous: [Design Web Crawler](../../12-Search-and-Aggregation-Systems/Web-Crawler/README.md) · 🏠 [E-commerce & Marketplace](../README.md) · ➡️ Next: [Design Movie Booking System](../Movie-Booking/README.md)
+⬅️ Previous: [Design Ad Click Aggregator](../../12-Search-and-Aggregation-Systems/Ad-Click-Aggregator/README.md) · 🏠 [E-commerce & Marketplace](../README.md) · ➡️ Next: [Design Movie Booking System](../Movie-Booking/README.md)
 
 > 📚 **Credit:** Chapter selection, ordering and question choice follow the [AlgoMaster.io System Design Interviews course](https://algomaster.io/learn/system-design-interviews/course-roadmap). This write-up was created with Claude for personal interview prep. The premium lesson text was **not** accessed or reproduced. See [CREDITS](../../CREDITS.md).
 <!-- nav:end -->

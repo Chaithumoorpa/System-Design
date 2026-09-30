@@ -3,7 +3,7 @@
 <!-- nav:start -->
 🏷️ **Priority:** High · **Difficulty:** Intermediate
 
-⬅️ Previous: [Design Search Autocomplete System](../Search-Autocomplete/README.md) · 🏠 [Search & Aggregation Systems](../README.md) · ➡️ Next: [Design Flash Sale](../../13-E-commerce-and-Marketplace/Flash-Sale/README.md)
+⬅️ Previous: [Design News Aggregator](../News-Aggregator/README.md) · 🏠 [Search & Aggregation Systems](../README.md) · ➡️ Next: [Design Google Search](../Google-Search/README.md)
 
 > 📚 **Credit:** Chapter selection, ordering and question choice follow the [AlgoMaster.io System Design Interviews course](https://algomaster.io/learn/system-design-interviews/course-roadmap). This write-up was created with Claude for personal interview prep. The premium lesson text was **not** accessed or reproduced. See [CREDITS](../../CREDITS.md).
 <!-- nav:end -->

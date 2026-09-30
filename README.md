@@ -12,7 +12,7 @@ companies**, organised as a course. Every problem follows the same flow:
 > Not affiliated with AlgoMaster.io: please support the original at [algomaster.io](https://algomaster.io).
 > See [CREDITS.md](CREDITS.md).
 
-**Progress: 73/105 chapters written.** ✅ written · 🚧 planned
+**Progress: 87/105 chapters written.** ✅ written · 🚧 planned
 
 ## How to study
 
@@ -126,31 +126,31 @@ Tools: `python3 tools/build.py` regenerates navigation, indexes and this table.
 
 | Chapter | Priority | Difficulty | Status |
 |---|---|---|---|
-| [Design Instagram](09-Social-Media-Systems/Instagram/README.md) | High | Intermediate | 🚧 |
+| [Design Instagram](09-Social-Media-Systems/Instagram/README.md) | High | Intermediate | ✅ |
 | [Design FB News Feed](09-Social-Media-Systems/FB-News-Feed/README.md) | High | Intermediate | ✅ |
-| [Design TikTok](09-Social-Media-Systems/TikTok/README.md) | Medium | Intermediate | 🚧 |
-| [Design Reddit](09-Social-Media-Systems/Reddit/README.md) | Medium | Intermediate | 🚧 |
-| [Design Tinder](09-Social-Media-Systems/Tinder/README.md) | Medium | Intermediate | 🚧 |
+| [Design TikTok](09-Social-Media-Systems/TikTok/README.md) | Medium | Intermediate | ✅ |
+| [Design Reddit](09-Social-Media-Systems/Reddit/README.md) | Medium | Intermediate | ✅ |
+| [Design Tinder](09-Social-Media-Systems/Tinder/README.md) | Medium | Intermediate | ✅ |
 
 ## [Media Streaming & Delivery](10-Media-Streaming-and-Delivery/README.md)
 
 | Chapter | Priority | Difficulty | Status |
 |---|---|---|---|
-| [Design Spotify](10-Media-Streaming-and-Delivery/Spotify/README.md) | Medium | Intermediate | 🚧 |
+| [Design Spotify](10-Media-Streaming-and-Delivery/Spotify/README.md) | Medium | Intermediate | ✅ |
 | [Design YouTube](10-Media-Streaming-and-Delivery/YouTube/README.md) | High | Intermediate | ✅ |
-| [Design Netflix](10-Media-Streaming-and-Delivery/Netflix/README.md) | High | Intermediate | 🚧 |
+| [Design Netflix](10-Media-Streaming-and-Delivery/Netflix/README.md) | High | Intermediate | ✅ |
 | [Design Google Drive](10-Media-Streaming-and-Delivery/Google-Drive/README.md) | High | Intermediate | ✅ |
-| [Design Gmail](10-Media-Streaming-and-Delivery/Gmail/README.md) | Low | Advanced | 🚧 |
-| [Design Twitch](10-Media-Streaming-and-Delivery/Twitch/README.md) | Medium | Advanced | 🚧 |
+| [Design Gmail](10-Media-Streaming-and-Delivery/Gmail/README.md) | Low | Advanced | ✅ |
+| [Design Twitch](10-Media-Streaming-and-Delivery/Twitch/README.md) | Medium | Advanced | ✅ |
 
 ## [Location-Based Services](11-Location-Based-Services/README.md)
 
 | Chapter | Priority | Difficulty | Status |
 |---|---|---|---|
-| [Design Airbnb](11-Location-Based-Services/Airbnb/README.md) | Medium | Intermediate | 🚧 |
-| [Design Food Delivery Service](11-Location-Based-Services/Food-Delivery-Service/README.md) | Medium | Intermediate | 🚧 |
+| [Design Airbnb](11-Location-Based-Services/Airbnb/README.md) | Medium | Intermediate | ✅ |
+| [Design Food Delivery Service](11-Location-Based-Services/Food-Delivery-Service/README.md) | Medium | Intermediate | ✅ |
 | [Design Uber](11-Location-Based-Services/Uber/README.md) | High | Advanced | ✅ |
-| [Design Google Maps](11-Location-Based-Services/Google-Maps/README.md) | Medium | Advanced | 🚧 |
+| [Design Google Maps](11-Location-Based-Services/Google-Maps/README.md) | Medium | Advanced | ✅ |
 | [Design Nearby Places / Yelp (bonus)](11-Location-Based-Services/Nearby-Places-Bonus/README.md) | — | — | ✅ |
 
 ## [Search & Aggregation Systems](12-Search-and-Aggregation-Systems/README.md)
@@ -158,10 +158,10 @@ Tools: `python3 tools/build.py` regenerates navigation, indexes and this table.
 | Chapter | Priority | Difficulty | Status |
 |---|---|---|---|
 | [Design Search Autocomplete System](12-Search-and-Aggregation-Systems/Search-Autocomplete/README.md) | High | Beginner | ✅ |
-| [Design News Aggregator](12-Search-and-Aggregation-Systems/News-Aggregator/README.md) | Low | Intermediate | 🚧 |
+| [Design News Aggregator](12-Search-and-Aggregation-Systems/News-Aggregator/README.md) | Low | Intermediate | ✅ |
 | [Design Web Crawler](12-Search-and-Aggregation-Systems/Web-Crawler/README.md) | High | Intermediate | ✅ |
-| [Design Google Search](12-Search-and-Aggregation-Systems/Google-Search/README.md) | Medium | Advanced | 🚧 |
-| [Design Ad Click Aggregator](12-Search-and-Aggregation-Systems/Ad-Click-Aggregator/README.md) | Medium | Advanced | 🚧 |
+| [Design Google Search](12-Search-and-Aggregation-Systems/Google-Search/README.md) | Medium | Advanced | ✅ |
+| [Design Ad Click Aggregator](12-Search-and-Aggregation-Systems/Ad-Click-Aggregator/README.md) | Medium | Advanced | ✅ |
 
 ## [E-commerce & Marketplace](13-E-commerce-and-Marketplace/README.md)
 

@@ -1,7 +1,7 @@
 # 📍 Design a Nearby Places Service — High Level Design
 
 <!-- nav:start -->
-⬅️ Previous: [Design Uber](../Uber/README.md) · 🏠 [Location-Based Services](../README.md) · ➡️ Next: [Design Search Autocomplete System](../../12-Search-and-Aggregation-Systems/Search-Autocomplete/README.md)
+⬅️ Previous: [Design Google Maps](../Google-Maps/README.md) · 🏠 [Location-Based Services](../README.md) · ➡️ Next: [Design Search Autocomplete System](../../12-Search-and-Aggregation-Systems/Search-Autocomplete/README.md)
 
 > 📚 **Credit:** Chapter selection, ordering and question choice follow the [AlgoMaster.io System Design Interviews course](https://algomaster.io/learn/system-design-interviews/course-roadmap). This write-up was created with Claude for personal interview prep. The premium lesson text was **not** accessed or reproduced. See [CREDITS](../../CREDITS.md).
 <!-- nav:end -->

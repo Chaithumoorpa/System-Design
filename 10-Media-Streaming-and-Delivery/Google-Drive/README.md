@@ -3,7 +3,7 @@
 <!-- nav:start -->
 🏷️ **Priority:** High · **Difficulty:** Intermediate
 
-⬅️ Previous: [Design YouTube](../YouTube/README.md) · 🏠 [Media Streaming & Delivery](../README.md) · ➡️ Next: [Design Uber](../../11-Location-Based-Services/Uber/README.md)
+⬅️ Previous: [Design Netflix](../Netflix/README.md) · 🏠 [Media Streaming & Delivery](../README.md) · ➡️ Next: [Design Gmail](../Gmail/README.md)
 
 > 📚 **Credit:** Chapter selection, ordering and question choice follow the [AlgoMaster.io System Design Interviews course](https://algomaster.io/learn/system-design-interviews/course-roadmap). This write-up was created with Claude for personal interview prep. The premium lesson text was **not** accessed or reproduced. See [CREDITS](../../CREDITS.md).
 <!-- nav:end -->

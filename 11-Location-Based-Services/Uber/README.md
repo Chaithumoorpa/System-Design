@@ -3,7 +3,7 @@
 <!-- nav:start -->
 🏷️ **Priority:** High · **Difficulty:** Advanced
 
-⬅️ Previous: [Design Google Drive](../../10-Media-Streaming-and-Delivery/Google-Drive/README.md) · 🏠 [Location-Based Services](../README.md) · ➡️ Next: [Design Nearby Places / Yelp (bonus)](../Nearby-Places-Bonus/README.md)
+⬅️ Previous: [Design Food Delivery Service](../Food-Delivery-Service/README.md) · 🏠 [Location-Based Services](../README.md) · ➡️ Next: [Design Google Maps](../Google-Maps/README.md)
 
 > 📚 **Credit:** Chapter selection, ordering and question choice follow the [AlgoMaster.io System Design Interviews course](https://algomaster.io/learn/system-design-interviews/course-roadmap). This write-up was created with Claude for personal interview prep. The premium lesson text was **not** accessed or reproduced. See [CREDITS](../../CREDITS.md).
 <!-- nav:end -->
