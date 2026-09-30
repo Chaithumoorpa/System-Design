@@ -12,7 +12,7 @@ companies**, organised as a course. Every problem follows the same flow:
 > Not affiliated with AlgoMaster.io: please support the original at [algomaster.io](https://algomaster.io).
 > See [CREDITS.md](CREDITS.md).
 
-**Progress: 35/105 chapters written.** ✅ written · 🚧 planned
+**Progress: 73/105 chapters written.** ✅ written · 🚧 planned
 
 ## How to study
 
@@ -30,19 +30,19 @@ Tools: `python3 tools/build.py` regenerates navigation, indexes and this table.
 
 | Chapter | Priority | Difficulty | Status |
 |---|---|---|---|
-| [What are System Design Interviews?](01-Introduction/01-what-are-system-design-interviews.md) | High | Beginner | 🚧 |
-| [Types of System Design Questions](01-Introduction/02-types-of-system-design-questions.md) | High | Beginner | 🚧 |
-| [Expectations by Level/YoE](01-Introduction/03-expectations-by-level.md) | High | Beginner | 🚧 |
+| [What are System Design Interviews?](01-Introduction/01-what-are-system-design-interviews.md) | High | Beginner | ✅ |
+| [Types of System Design Questions](01-Introduction/02-types-of-system-design-questions.md) | High | Beginner | ✅ |
+| [Expectations by Level/YoE](01-Introduction/03-expectations-by-level.md) | High | Beginner | ✅ |
 | [Study Plan (bonus)](01-Introduction/04-study-plan.md) | — | — | ✅ |
 
 ## [Must-Know Topics](02-Must-Know-Topics/README.md)
 
 | Chapter | Priority | Difficulty | Status |
 |---|---|---|---|
-| [Concepts](02-Must-Know-Topics/01-concepts.md) | High | Beginner | 🚧 |
-| [Technologies](02-Must-Know-Topics/02-technologies.md) | High | Beginner | 🚧 |
-| [Tradeoffs](02-Must-Know-Topics/03-tradeoffs.md) | High | Intermediate | 🚧 |
-| [Data Structures](02-Must-Know-Topics/04-data-structures.md) | Medium | Intermediate | 🚧 |
+| [Concepts](02-Must-Know-Topics/01-concepts.md) | High | Beginner | ✅ |
+| [Technologies](02-Must-Know-Topics/02-technologies.md) | High | Beginner | ✅ |
+| [Tradeoffs](02-Must-Know-Topics/03-tradeoffs.md) | High | Intermediate | ✅ |
+| [Data Structures](02-Must-Know-Topics/04-data-structures.md) | Medium | Intermediate | ✅ |
 
 ## [Concept Deep Dives](03-Concept-Deep-Dives/README.md)
 
@@ -52,49 +52,49 @@ Tools: `python3 tools/build.py` regenerates navigation, indexes and this table.
 | [Caching](03-Concept-Deep-Dives/02-caching.md) | High | Intermediate | ✅ |
 | [API Design](03-Concept-Deep-Dives/03-api-design.md) | High | Intermediate | ✅ |
 | [Database Design](03-Concept-Deep-Dives/04-database-design.md) | High | Intermediate | ✅ |
-| [Distributed Systems](03-Concept-Deep-Dives/05-Distributed-Systems/README.md) | High | Advanced | 🚧 |
+| [Distributed Systems](03-Concept-Deep-Dives/05-Distributed-Systems/README.md) | High | Advanced | ✅ |
 
 ## [Technology Deep Dives](04-Technology-Deep-Dives/README.md)
 
 | Chapter | Priority | Difficulty | Status |
 |---|---|---|---|
 | [PostgreSQL](04-Technology-Deep-Dives/01-postgresql.md) | High | Intermediate | ✅ |
-| [MongoDB](04-Technology-Deep-Dives/02-mongodb.md) | Medium | Intermediate | 🚧 |
+| [MongoDB](04-Technology-Deep-Dives/02-mongodb.md) | Medium | Intermediate | ✅ |
 | [Redis](04-Technology-Deep-Dives/03-redis.md) | High | Intermediate | ✅ |
-| [DynamoDB](04-Technology-Deep-Dives/04-dynamodb.md) | High | Intermediate | 🚧 |
-| [Cassandra](04-Technology-Deep-Dives/05-cassandra.md) | High | Advanced | 🚧 |
+| [DynamoDB](04-Technology-Deep-Dives/04-dynamodb.md) | High | Intermediate | ✅ |
+| [Cassandra](04-Technology-Deep-Dives/05-cassandra.md) | High | Advanced | ✅ |
 | [Elasticsearch](04-Technology-Deep-Dives/06-elasticsearch.md) | High | Intermediate | ✅ |
 | [Kafka](04-Technology-Deep-Dives/07-kafka.md) | High | Intermediate | ✅ |
-| [RabbitMQ](04-Technology-Deep-Dives/08-rabbitmq.md) | Medium | Intermediate | 🚧 |
-| [SQS](04-Technology-Deep-Dives/09-sqs.md) | Medium | Intermediate | 🚧 |
-| [Flink](04-Technology-Deep-Dives/10-flink.md) | Low | Advanced | 🚧 |
-| [S3](04-Technology-Deep-Dives/11-s3.md) | High | Intermediate | 🚧 |
+| [RabbitMQ](04-Technology-Deep-Dives/08-rabbitmq.md) | Medium | Intermediate | ✅ |
+| [SQS](04-Technology-Deep-Dives/09-sqs.md) | Medium | Intermediate | ✅ |
+| [Flink](04-Technology-Deep-Dives/10-flink.md) | Low | Advanced | ✅ |
+| [S3](04-Technology-Deep-Dives/11-s3.md) | High | Intermediate | ✅ |
 | [ZooKeeper](04-Technology-Deep-Dives/12-zookeeper.md) | Medium | Advanced | ✅ |
 
 ## [Interview Patterns](05-Interview-Patterns/README.md)
 
 | Chapter | Priority | Difficulty | Status |
 |---|---|---|---|
-| [Scaling Read Traffic](05-Interview-Patterns/01-scaling-read-traffic.md) | High | Intermediate | 🚧 |
-| [Scaling Write Traffic](05-Interview-Patterns/02-scaling-write-traffic.md) | High | Intermediate | 🚧 |
-| [Handling Hot Keys](05-Interview-Patterns/03-handling-hot-keys.md) | High | Intermediate | 🚧 |
-| [Absorbing Traffic Spikes](05-Interview-Patterns/04-absorbing-traffic-spikes.md) | High | Intermediate | 🚧 |
-| [Pushing Real-time Updates](05-Interview-Patterns/05-pushing-realtime-updates.md) | High | Intermediate | 🚧 |
-| [Fanning Out Updates](05-Interview-Patterns/06-fanning-out-updates.md) | High | Intermediate | 🚧 |
-| [Uploading and Serving Large Files](05-Interview-Patterns/07-uploading-and-serving-large-files.md) | Medium | Intermediate | 🚧 |
-| [Streaming Video and Audio](05-Interview-Patterns/08-streaming-video-and-audio.md) | High | Advanced | 🚧 |
+| [Scaling Read Traffic](05-Interview-Patterns/01-scaling-read-traffic.md) | High | Intermediate | ✅ |
+| [Scaling Write Traffic](05-Interview-Patterns/02-scaling-write-traffic.md) | High | Intermediate | ✅ |
+| [Handling Hot Keys](05-Interview-Patterns/03-handling-hot-keys.md) | High | Intermediate | ✅ |
+| [Absorbing Traffic Spikes](05-Interview-Patterns/04-absorbing-traffic-spikes.md) | High | Intermediate | ✅ |
+| [Pushing Real-time Updates](05-Interview-Patterns/05-pushing-realtime-updates.md) | High | Intermediate | ✅ |
+| [Fanning Out Updates](05-Interview-Patterns/06-fanning-out-updates.md) | High | Intermediate | ✅ |
+| [Uploading and Serving Large Files](05-Interview-Patterns/07-uploading-and-serving-large-files.md) | Medium | Intermediate | ✅ |
+| [Streaming Video and Audio](05-Interview-Patterns/08-streaming-video-and-audio.md) | High | Advanced | ✅ |
 | [Surviving Component Failures](05-Interview-Patterns/09-surviving-component-failures.md) | High | Intermediate | ✅ |
 | [Preventing Duplicate Processing](05-Interview-Patterns/10-preventing-duplicate-processing.md) | High | Intermediate | ✅ |
-| [Running Across Multiple Regions](05-Interview-Patterns/11-running-across-multiple-regions.md) | Medium | Advanced | 🚧 |
+| [Running Across Multiple Regions](05-Interview-Patterns/11-running-across-multiple-regions.md) | Medium | Advanced | ✅ |
 | [Coordinating Transactions Across Services](05-Interview-Patterns/12-coordinating-transactions-across-services.md) | Medium | Advanced | ✅ |
-| [Keeping Data in Sync](05-Interview-Patterns/13-keeping-data-in-sync.md) | High | Intermediate | 🚧 |
-| [Preventing Double Booking](05-Interview-Patterns/14-preventing-double-booking.md) | High | Intermediate | 🚧 |
-| [Handling Long-Running Tasks](05-Interview-Patterns/15-handling-long-running-tasks.md) | High | Intermediate | 🚧 |
-| [Scheduling Delayed and Recurring Jobs](05-Interview-Patterns/16-scheduling-delayed-and-recurring-jobs.md) | Medium | Intermediate | 🚧 |
-| [Search and Typeahead](05-Interview-Patterns/17-search-and-typeahead.md) | High | Intermediate | 🚧 |
-| [Finding and Tracking Locations](05-Interview-Patterns/18-finding-and-tracking-locations.md) | High | Intermediate | 🚧 |
+| [Keeping Data in Sync](05-Interview-Patterns/13-keeping-data-in-sync.md) | High | Intermediate | ✅ |
+| [Preventing Double Booking](05-Interview-Patterns/14-preventing-double-booking.md) | High | Intermediate | ✅ |
+| [Handling Long-Running Tasks](05-Interview-Patterns/15-handling-long-running-tasks.md) | High | Intermediate | ✅ |
+| [Scheduling Delayed and Recurring Jobs](05-Interview-Patterns/16-scheduling-delayed-and-recurring-jobs.md) | Medium | Intermediate | ✅ |
+| [Search and Typeahead](05-Interview-Patterns/17-search-and-typeahead.md) | High | Intermediate | ✅ |
+| [Finding and Tracking Locations](05-Interview-Patterns/18-finding-and-tracking-locations.md) | High | Intermediate | ✅ |
 | [Generating Unique IDs](05-Interview-Patterns/19-generating-unique-ids.md) | Medium | Intermediate | ✅ |
-| [Counting at Scale](05-Interview-Patterns/20-counting-at-scale.md) | Medium | Advanced | 🚧 |
+| [Counting at Scale](05-Interview-Patterns/20-counting-at-scale.md) | Medium | Advanced | ✅ |
 
 ## [Interview Tips](06-Interview-Tips/README.md)
 
@@ -102,25 +102,25 @@ Tools: `python3 tools/build.py` regenerates navigation, indexes and this table.
 |---|---|---|---|
 | [Answering Framework](06-Interview-Tips/01-answering-framework.md) | High | Beginner | ✅ |
 | [Estimation Cheatsheet](06-Interview-Tips/02-estimation-cheatsheet.md) | High | Beginner | ✅ |
-| [Diagramming Tips](06-Interview-Tips/03-diagramming-tips.md) | High | Beginner | 🚧 |
-| [Choosing the Right Database](06-Interview-Tips/04-choosing-the-right-database.md) | High | Intermediate | 🚧 |
+| [Diagramming Tips](06-Interview-Tips/03-diagramming-tips.md) | High | Beginner | ✅ |
+| [Choosing the Right Database](06-Interview-Tips/04-choosing-the-right-database.md) | High | Intermediate | ✅ |
 
 ## [Basic Questions](07-Basic-Questions/README.md)
 
 | Chapter | Priority | Difficulty | Status |
 |---|---|---|---|
 | [Design URL Shortener](07-Basic-Questions/URL-Shortener/README.md) | High | Beginner | ✅ |
-| [Design Pastebin](07-Basic-Questions/Pastebin/README.md) | Medium | Beginner | 🚧 |
+| [Design Pastebin](07-Basic-Questions/Pastebin/README.md) | Medium | Beginner | ✅ |
 
 ## [Real-Time Communication](08-Real-Time-Communication/README.md)
 
 | Chapter | Priority | Difficulty | Status |
 |---|---|---|---|
 | [Design WhatsApp](08-Real-Time-Communication/WhatsApp/README.md) | High | Intermediate | ✅ |
-| [Design Slack](08-Real-Time-Communication/Slack/README.md) | Medium | Intermediate | 🚧 |
-| [Design Live Comments](08-Real-Time-Communication/Live-Comments/README.md) | Medium | Intermediate | 🚧 |
-| [Design Google Docs](08-Real-Time-Communication/Google-Docs/README.md) | High | Advanced | 🚧 |
-| [Design Zoom](08-Real-Time-Communication/Zoom/README.md) | Medium | Advanced | 🚧 |
+| [Design Slack](08-Real-Time-Communication/Slack/README.md) | Medium | Intermediate | ✅ |
+| [Design Live Comments](08-Real-Time-Communication/Live-Comments/README.md) | Medium | Intermediate | ✅ |
+| [Design Google Docs](08-Real-Time-Communication/Google-Docs/README.md) | High | Advanced | ✅ |
+| [Design Zoom](08-Real-Time-Communication/Zoom/README.md) | Medium | Advanced | ✅ |
 
 ## [Social Media Systems](09-Social-Media-Systems/README.md)
 

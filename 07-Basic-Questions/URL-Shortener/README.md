@@ -3,7 +3,7 @@
 <!-- nav:start -->
 🏷️ **Priority:** High · **Difficulty:** Beginner
 
-⬅️ Previous: [Estimation Cheatsheet](../../06-Interview-Tips/02-estimation-cheatsheet.md) · 🏠 [Basic Questions](../README.md) · ➡️ Next: [Design WhatsApp](../../08-Real-Time-Communication/WhatsApp/README.md)
+⬅️ Previous: [Choosing the Right Database](../../06-Interview-Tips/04-choosing-the-right-database.md) · 🏠 [Basic Questions](../README.md) · ➡️ Next: [Design Pastebin](../Pastebin/README.md)
 
 > 📚 **Credit:** Chapter selection, ordering and question choice follow the [AlgoMaster.io System Design Interviews course](https://algomaster.io/learn/system-design-interviews/course-roadmap). This write-up was created with Claude for personal interview prep. The premium lesson text was **not** accessed or reproduced. See [CREDITS](../../CREDITS.md).
 <!-- nav:end -->

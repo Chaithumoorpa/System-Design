@@ -3,7 +3,7 @@
 <!-- nav:start -->
 🏷️ **Priority:** High · **Difficulty:** Beginner
 
-⬅️ Previous: [Generating Unique IDs](../05-Interview-Patterns/19-generating-unique-ids.md) · 🏠 [Interview Tips](README.md) · ➡️ Next: [Estimation Cheatsheet](02-estimation-cheatsheet.md)
+⬅️ Previous: [Counting at Scale](../05-Interview-Patterns/20-counting-at-scale.md) · 🏠 [Interview Tips](README.md) · ➡️ Next: [Estimation Cheatsheet](02-estimation-cheatsheet.md)
 
 > 📚 **Credit:** Chapter selection, ordering and question choice follow the [AlgoMaster.io System Design Interviews course](https://algomaster.io/learn/system-design-interviews/course-roadmap). This write-up was created with Claude for personal interview prep. The premium lesson text was **not** accessed or reproduced. See [CREDITS](../CREDITS.md).
 <!-- nav:end -->

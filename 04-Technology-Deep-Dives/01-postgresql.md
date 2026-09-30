@@ -3,7 +3,7 @@
 <!-- nav:start -->
 🏷️ **Priority:** High · **Difficulty:** Intermediate
 
-⬅️ Previous: [Database Design](../03-Concept-Deep-Dives/04-database-design.md) · 🏠 [Technology Deep Dives](README.md) · ➡️ Next: [Redis](03-redis.md)
+⬅️ Previous: [Distributed Systems](../03-Concept-Deep-Dives/05-Distributed-Systems/README.md) · 🏠 [Technology Deep Dives](README.md) · ➡️ Next: [MongoDB](02-mongodb.md)
 
 > 📚 **Credit:** Chapter selection, ordering and question choice follow the [AlgoMaster.io System Design Interviews course](https://algomaster.io/learn/system-design-interviews/course-roadmap). This write-up was created with Claude for personal interview prep. The premium lesson text was **not** accessed or reproduced. See [CREDITS](../CREDITS.md).
 <!-- nav:end -->

@@ -3,7 +3,7 @@
 <!-- nav:start -->
 🏷️ **Priority:** High · **Difficulty:** Intermediate
 
-⬅️ Previous: [Design WhatsApp](../../08-Real-Time-Communication/WhatsApp/README.md) · 🏠 [Social Media Systems](../README.md) · ➡️ Next: [Design YouTube](../../10-Media-Streaming-and-Delivery/YouTube/README.md)
+⬅️ Previous: [Design Zoom](../../08-Real-Time-Communication/Zoom/README.md) · 🏠 [Social Media Systems](../README.md) · ➡️ Next: [Design YouTube](../../10-Media-Streaming-and-Delivery/YouTube/README.md)
 
 > 📚 **Credit:** Chapter selection, ordering and question choice follow the [AlgoMaster.io System Design Interviews course](https://algomaster.io/learn/system-design-interviews/course-roadmap). This write-up was created with Claude for personal interview prep. The premium lesson text was **not** accessed or reproduced. See [CREDITS](../../CREDITS.md).
 <!-- nav:end -->

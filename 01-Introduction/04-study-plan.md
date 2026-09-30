@@ -1,7 +1,7 @@
 # Study Plan
 
 <!-- nav:start -->
-⬅️ Previous: *(start)* · 🏠 [Introduction](README.md) · ➡️ Next: [Networking](../03-Concept-Deep-Dives/01-networking.md)
+⬅️ Previous: [Expectations by Level/YoE](03-expectations-by-level.md) · 🏠 [Introduction](README.md) · ➡️ Next: [Concepts](../02-Must-Know-Topics/01-concepts.md)
 
 > 📚 **Credit:** Chapter selection, ordering and question choice follow the [AlgoMaster.io System Design Interviews course](https://algomaster.io/learn/system-design-interviews/course-roadmap). This write-up was created with Claude for personal interview prep. The premium lesson text was **not** accessed or reproduced. See [CREDITS](../CREDITS.md).
 <!-- nav:end -->

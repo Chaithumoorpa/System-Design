@@ -3,7 +3,7 @@
 <!-- nav:start -->
 🏷️ **Priority:** Medium · **Difficulty:** Advanced
 
-⬅️ Previous: [Preventing Duplicate Processing](10-preventing-duplicate-processing.md) · 🏠 [Interview Patterns](README.md) · ➡️ Next: [Generating Unique IDs](19-generating-unique-ids.md)
+⬅️ Previous: [Running Across Multiple Regions](11-running-across-multiple-regions.md) · 🏠 [Interview Patterns](README.md) · ➡️ Next: [Keeping Data in Sync](13-keeping-data-in-sync.md)
 
 > 📚 **Credit:** Chapter selection, ordering and question choice follow the [AlgoMaster.io System Design Interviews course](https://algomaster.io/learn/system-design-interviews/course-roadmap). This write-up was created with Claude for personal interview prep. The premium lesson text was **not** accessed or reproduced. See [CREDITS](../CREDITS.md).
 <!-- nav:end -->

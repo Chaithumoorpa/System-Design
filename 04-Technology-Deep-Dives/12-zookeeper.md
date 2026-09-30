@@ -3,7 +3,7 @@
 <!-- nav:start -->
 🏷️ **Priority:** Medium · **Difficulty:** Advanced
 
-⬅️ Previous: [Kafka](07-kafka.md) · 🏠 [Technology Deep Dives](README.md) · ➡️ Next: [Surviving Component Failures](../05-Interview-Patterns/09-surviving-component-failures.md)
+⬅️ Previous: [S3](11-s3.md) · 🏠 [Technology Deep Dives](README.md) · ➡️ Next: [Scaling Read Traffic](../05-Interview-Patterns/01-scaling-read-traffic.md)
 
 > 📚 **Credit:** Chapter selection, ordering and question choice follow the [AlgoMaster.io System Design Interviews course](https://algomaster.io/learn/system-design-interviews/course-roadmap). This write-up was created with Claude for personal interview prep. The premium lesson text was **not** accessed or reproduced. See [CREDITS](../CREDITS.md).
 <!-- nav:end -->

@@ -3,7 +3,7 @@
 <!-- nav:start -->
 🏷️ **Priority:** Medium · **Difficulty:** Intermediate
 
-⬅️ Previous: [Coordinating Transactions Across Services](12-coordinating-transactions-across-services.md) · 🏠 [Interview Patterns](README.md) · ➡️ Next: [Answering Framework](../06-Interview-Tips/01-answering-framework.md)
+⬅️ Previous: [Finding and Tracking Locations](18-finding-and-tracking-locations.md) · 🏠 [Interview Patterns](README.md) · ➡️ Next: [Counting at Scale](20-counting-at-scale.md)
 
 > 📚 **Credit:** Chapter selection, ordering and question choice follow the [AlgoMaster.io System Design Interviews course](https://algomaster.io/learn/system-design-interviews/course-roadmap). This write-up was created with Claude for personal interview prep. The premium lesson text was **not** accessed or reproduced. See [CREDITS](../CREDITS.md).
 <!-- nav:end -->

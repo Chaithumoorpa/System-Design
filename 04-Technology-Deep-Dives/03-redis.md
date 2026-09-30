@@ -3,7 +3,7 @@
 <!-- nav:start -->
 🏷️ **Priority:** High · **Difficulty:** Intermediate
 
-⬅️ Previous: [PostgreSQL](01-postgresql.md) · 🏠 [Technology Deep Dives](README.md) · ➡️ Next: [Elasticsearch](06-elasticsearch.md)
+⬅️ Previous: [MongoDB](02-mongodb.md) · 🏠 [Technology Deep Dives](README.md) · ➡️ Next: [DynamoDB](04-dynamodb.md)
 
 > 📚 **Credit:** Chapter selection, ordering and question choice follow the [AlgoMaster.io System Design Interviews course](https://algomaster.io/learn/system-design-interviews/course-roadmap). This write-up was created with Claude for personal interview prep. The premium lesson text was **not** accessed or reproduced. See [CREDITS](../CREDITS.md).
 <!-- nav:end -->

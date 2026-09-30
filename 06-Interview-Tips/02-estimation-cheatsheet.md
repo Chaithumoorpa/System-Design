@@ -3,7 +3,7 @@
 <!-- nav:start -->
 🏷️ **Priority:** High · **Difficulty:** Beginner
 
-⬅️ Previous: [Answering Framework](01-answering-framework.md) · 🏠 [Interview Tips](README.md) · ➡️ Next: [Design URL Shortener](../07-Basic-Questions/URL-Shortener/README.md)
+⬅️ Previous: [Answering Framework](01-answering-framework.md) · 🏠 [Interview Tips](README.md) · ➡️ Next: [Diagramming Tips](03-diagramming-tips.md)
 
 > 📚 **Credit:** Chapter selection, ordering and question choice follow the [AlgoMaster.io System Design Interviews course](https://algomaster.io/learn/system-design-interviews/course-roadmap). This write-up was created with Claude for personal interview prep. The premium lesson text was **not** accessed or reproduced. See [CREDITS](../CREDITS.md).
 <!-- nav:end -->
